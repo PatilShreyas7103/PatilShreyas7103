@@ -25,10 +25,10 @@
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Shreyas_545" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="30" />
-  </a>&nbsp;&nbsp;
+<!--   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/shreyas_545" target="blank">
     <img src="https://raw.githubusercontent.com/Amchuz/Amchuz/main/codechef.svg" alt="CodeChef" height="30" width="30" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://www.geeksforgeeks.org/user/shreyas_patil/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
   </a>&nbsp;&nbsp;
