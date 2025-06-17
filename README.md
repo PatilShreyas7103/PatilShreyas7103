@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hey!%20I%20am%20Shreyas%20Patil&fontSize=45&fontAlign=50&fontColor=ffffff" />
+<img src="https://github.com/Prabhav27/Prabhav27/blob/main/github-header-image%20(2).png" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PatilShreyas7103&label=Profile%20views&color=0e75b6&style=flat" alt="PatilShreyas7103" />
@@ -26,9 +26,9 @@
   <a href="https://codeforces.com/profile/Shreyas_545" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="30" />
   </a>&nbsp;&nbsp;
-<!--   <a href="https://www.codechef.com/users/shreyas_545" target="blank">
+  <!-- <a href="https://www.codechef.com/users/shreyas_545" target="blank">
     <img src="https://raw.githubusercontent.com/Amchuz/Amchuz/main/codechef.svg" alt="CodeChef" height="30" width="30" />
-  </a>&nbsp;&nbsp; --> 
+  </a>&nbsp;&nbsp; -->
   <a href="https://www.geeksforgeeks.org/user/shreyas_patil/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
   </a>&nbsp;&nbsp;
@@ -37,6 +37,7 @@
   </a>
 </p>
 
+---
 
 ## 🛠️ Languages and Tools
 
