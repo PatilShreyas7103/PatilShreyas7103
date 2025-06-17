@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="30" />
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/shreyas_545" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/codechef.png" alt="CodeChef" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="30" width="30" />
   </a>&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/shreyas_patil/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
