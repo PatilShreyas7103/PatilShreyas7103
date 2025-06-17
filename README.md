@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://github.com/Prabhav27/Prabhav27/blob/main/github-header-image%20(2).png" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hey!%20I%20am%20Shreyas%20Patil&fontSize=45&fontAlign=50&fontColor=ffffff" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PatilShreyas7103&label=Profile%20views&color=0e75b6&style=flat" alt="PatilShreyas7103" />
